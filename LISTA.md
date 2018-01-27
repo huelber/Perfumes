@@ -3,7 +3,7 @@
 Relação de Perfumes:
 
 - KING - ANTONIO BANDERAS
-100% aromático | 50% especiado fresco | 46% citrinos
+<br>100% aromático | 50% especiado fresco | 46% citrinos
 
 - QUASAR SURF -  O BOTICÁRIO
 100% citrinos | 70% especiado fresco | 45% aromático
