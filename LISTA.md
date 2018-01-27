@@ -27,4 +27,4 @@ Relação de Perfumes:
 100% especiado fresco | 85% citrinos | 65% aromático
 
 - INVICTUS
-100% cítrico | 75% marinho | 60% aromático
+100% cítrico | 75% marinho | 60% aromático.
